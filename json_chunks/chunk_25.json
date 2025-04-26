@@ -1,0 +1,227 @@
+[
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "video.mp4",
+    "file_size": 3237691,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 11869,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 24,
+    "width": 400,
+    "height": 400,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "vse esho miss uu znala?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "vse esho miss uu znala?"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ххахаа",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ххахаа"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      "ti moya ponyyyy ",
+      {
+        "type": "custom_emoji",
+        "text": "😘",
+        "document_id": "stickers/AnimatedSticker (38).tgs"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🥰",
+        "document_id": "stickers/sticker (243).webp"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ti moya ponyyyy "
+      },
+      {
+        "type": "custom_emoji",
+        "text": "😘",
+        "document_id": "stickers/AnimatedSticker (38).tgs"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🥰",
+        "document_id": "stickers/sticker (243).webp"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "аххахахааха",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "аххахахааха"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "хорошенкий",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "хорошенкий"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 84949,
+    "text": "krasivayaa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "krasivayaa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "kak delaa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "kak delaa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "нормальнооо",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "нормальнооо"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "как обычно",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "как обычно"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "а ты как",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "а ты как"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ya tozhee",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ya tozhee"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Prosnulsa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Prosnulsa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Sha nachnu rabotatt",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Sha nachnu rabotatt"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "kakie planii",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "kakie planii"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Kak seba chustvuesh",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Kak seba chustvuesh"
+      }
+    ]
+  }
+]

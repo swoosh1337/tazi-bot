@@ -1,0 +1,2515 @@
+[
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Kak mne segodna obyasnala vse",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Kak mne segodna obyasnala vse"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "споки спокииииии",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "споки спокииииии"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "понравилось????",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "понравилось????"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "umnaya umnaya",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "umnaya umnaya"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "niche ne skazhesh",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "niche ne skazhesh"
+      }
+    ]
+  },
+  {
+    "type": "service",
+    "actor": "Polinochka ❤️‍🔥🐈",
+    "actor_id": "user448614268",
+    "action": "phone_call",
+    "duration_seconds": 27,
+    "discard_reason": "hangup",
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "cheeti",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "cheeti"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 20109,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 5,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ya tebe aweet dreams pisal",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ya tebe aweet dreams pisal"
+      }
+    ]
+  },
+  {
+    "type": "service",
+    "actor": "Tazi",
+    "actor_id": "user8141948028",
+    "action": "phone_call",
+    "duration_seconds": 537,
+    "discard_reason": "hangup",
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Good morrning babyyy",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Good morrning babyyy"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "hiiii",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hiiii"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 95767,
+    "width": 1126,
+    "height": 1280,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "так так",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "так так"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 19193,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 4,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Priveet",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Priveet"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "bliin",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "bliin"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "I mess up am and pm",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I mess up am and pm"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "I was going to send this pic with good morning",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I was going to send this pic with good morning"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "какое пик",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "какое пик"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "привет",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "привет"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 79121,
+    "width": 588,
+    "height": 1280,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ОРУУУУ",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ОРУУУУ"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "тахааххаххахахах",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "тахааххаххахахах"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "хорошенькииий",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "хорошенькииий"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "и так спал??",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "и так спал??"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "daa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "daa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "и нормально?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "и нормально?"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "da norm",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da norm"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83434,
+    "text": "можно когда со мной то без такого омбундирования пжлст",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "можно когда со мной то без такого омбундирования пжлст"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "haha da pridumaem shto nibud",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "haha da pridumaem shto nibud"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 25412,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 12102,
+    "media_type": "sticker",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Vot tak budu spat s toboi",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Vot tak budu spat s toboi"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "нэээээээт",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "нэээээээт"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "в маске с затычкой для носа рта с специальном кольцом еще с подушкой с охолождением специальным матрасом и одеялом",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "в маске с затычкой для носа рта с специальном кольцом еще с подушкой с охолождением специальным матрасом и одеялом"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83434,
+    "text": "тази моргни если тебя держат в заложниках",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "тази моргни если тебя держат в заложниках"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Hahaha",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Hahaha"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Net",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Net"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Vse ok",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Vse ok"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Chd kak dela",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Chd kak dela"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Kaki planii",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Kaki planii"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "приготовила завтрак.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "приготовила завтрак."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "поработала",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "поработала"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "щас пойду опять в шави с лизой",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "щас пойду опять в шави с лизой"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "жывоооттт болитттт",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "жывоооттт болитттт"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "вообще можно прилететь в мадрид переночевать там и потом вместе поехать в валенсию",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "вообще можно прилететь в мадрид переночевать там и потом вместе поехать в валенсию"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": [
+      {
+        "type": "hashtag",
+        "text": "#мысли"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "hashtag",
+        "text": "#мысли"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83458,
+    "text": "da norm",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da norm"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "у меня ресерч просто",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "у меня ресерч просто"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "I will see my cousin there",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "I will see my cousin there"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "on v madridee",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "on v madridee"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Norm norm",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Norm norm"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 74238,
+    "width": 590,
+    "height": 1280,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "до валенсии",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "до валенсии"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "а почему мы именно в валенсию хотим там типа норм купаться?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "а почему мы именно в валенсию хотим там типа норм купаться?"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я щас задумалась..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я щас задумалась.."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 76285,
+    "width": 590,
+    "height": 1280,
+    "text": "eat paella for sure it’s like baza",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "eat paella for sure it’s like baza"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ya tozhe",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ya tozhe"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Hz mb bc of ur relative",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Hz mb bc of ur relative"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83469,
+    "text": "hahah",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hahah"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83471,
+    "text": "там друзья семьи вообще и то я сомневаюсь что мы можем там остаться и как будто вообще нет смысла…",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "там друзья семьи вообще и то я сомневаюсь что мы можем там остаться и как будто вообще нет смысла…"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "мы можем приехать в мадрид на 2 дня и оттуда поехать в португалию",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "мы можем приехать в мадрид на 2 дня и оттуда поехать в португалию"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "da norm plan",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da norm plan"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 31806,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 14806,
+    "media_type": "sticker",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 13316,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 8406,
+    "media_type": "sticker",
+    "sticker_emoji": "♥️",
+    "mime_type": "image/webp",
+    "width": 479,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83476,
+    "text": "это же капучина балерина..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "это же капучина балерина.."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83474,
+    "text": "тази я щас продумываю",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "тази я щас продумываю"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я еще сделаю таблицу с местами где пыть кофээээ и куда сходить",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я еще сделаю таблицу с местами где пыть кофээээ и куда сходить"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": ".",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "davai davai",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "davai davai"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "moxhna fr-sat-and sun vecehrom",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "moxhna fr-sat-and sun vecehrom"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "on bus to lisabon",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "on bus to lisabon"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "там лететь час и билеты типо 40€",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "там лететь час и билеты типо 40€"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "короче",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "короче"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я все сделаю…",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я все сделаю…"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "потом скину тебе план",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "потом скину тебе план"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "оценишь",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "оценишь"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "davaiii",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "davaiii"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "good girl",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "good girl"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "мяу мяу",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "мяу мяу"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "короче у меня план",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "короче у меня план"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 36453,
+    "width": 1280,
+    "height": 1256,
+    "text": "если мы поедем типа на недел начиная с 9го числа и скорее всего мы поедем так\n\nто я возьму дей офф в один день (например 11) и потом доработаю неделю и возьму отпуск тока с 16го числа",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "если мы поедем типа на недел начиная с 9го числа и скорее всего мы поедем так\n\nто я возьму дей офф в один день (например 11) и потом доработаю неделю и возьму отпуск тока с 16го числа"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "pon",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "pon"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nu reshim",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu reshim"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "у меня знаешь что вызывает стресс",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "у меня знаешь что вызывает стресс"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "shto",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "shto"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "что у меня собес на визу 23го в хорватии и не пон когда брать билет обратно тк если мне ее дадут то хз сколько ждать",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "что у меня собес на визу 23го в хорватии и не пон когда брать билет обратно тк если мне ее дадут то хз сколько ждать"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "hmm nu da",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hmm nu da"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "real",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "real"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Nuzhma podumat",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Nuzhma podumat"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "пачимууу так сложноооо",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "пачимууу так сложноооо"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "da razberemsa de",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da razberemsa de"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Sprosi avg time",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Sprosi avg time"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Oni daiut vizu",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Oni daiut vizu"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "budem that amount of day there",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "budem that amount of day there"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "так я ж спрашивала",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "так я ж спрашивала"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nu i",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu i"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "forwarded_from": "Андрей • визы, путешествия 🇪🇺🇬🇧",
+    "text": "На следующий день выдали, но по нормативам имеют право до 5-ти рабочих дней вклеивать",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "На следующий день выдали, но по нормативам имеют право до 5-ти рабочих дней вклеивать"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83509,
+    "text": "зая…..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "зая….."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я тебе присылала",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я тебе присылала"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 2711,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 6932,
+    "media_type": "sticker",
+    "sticker_emoji": "🚶",
+    "mime_type": "video/webm",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nu is htoo",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu is htoo"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Skazhi esho raz",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Skazhi esho raz"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Che takova",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Che takova"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 73716,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 5276,
+    "media_type": "sticker",
+    "sticker_emoji": "👋",
+    "mime_type": "video/webm",
+    "duration_seconds": 3,
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 23344,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 12686,
+    "media_type": "sticker",
+    "sticker_emoji": "🥺",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83510,
+    "text": "Pon priduamem shtota, nu budet 5 dnei v xorvatii esli shto",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Pon priduamem shtota, nu budet 5 dnei v xorvatii esli shto"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "video.mp4",
+    "file_size": 2067552,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 18504,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 15,
+    "width": 400,
+    "height": 400,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "prettyyyy",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "prettyyyy"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83518,
+    "text": "izvini ne mnogo gruba skazal",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "izvini ne mnogo gruba skazal"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Myau myau",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Myau myau"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83520,
+    "text": "Ya tozh bradaiu ice late and that gay drink for now",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Ya tozh bradaiu ice late and that gay drink for now"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "chet u menya tozhe s skozhai ne ochen prishi viskachiki",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "chet u menya tozhe s skozhai ne ochen prishi viskachiki"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83522,
+    "text": "да все ок но мне больше нравится когда ты пишешь dwwww reshim",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "да все ок но мне больше нравится когда ты пишешь dwwww reshim"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "а ну не очень к контексту подходит но все равно",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "а ну не очень к контексту подходит но все равно"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": ".."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83525,
+    "text": "зая нас траванули в стамбуле",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "зая нас траванули в стамбуле"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ну у меня ПП уже",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ну у меня ПП уже"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "все",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "все"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я уже курицу размораживаю и тушу ее с овощами",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я уже курицу размораживаю и тушу ее с овощами"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83526,
+    "text": "nu da reshim che takova",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu da reshim che takova"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Mozhem after portugal 5 dnay v xorvatii",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Mozhem after portugal 5 dnay v xorvatii"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "a v italy we can go in october mb",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "a v italy we can go in october mb"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я больше переживаю из-за того что ты хотел в амстер",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я больше переживаю из-за того что ты хотел в амстер"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ну мы можем в октябре туда поехать фо шур",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ну мы можем в октябре туда поехать фо шур"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Hmm nu da tozhe variant",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Hmm nu da tozhe variant"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Koroche madrid lisabon i zagreb",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Koroche madrid lisabon i zagreb"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "vot takonmarshrut bduet potom tbilisi",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "vot takonmarshrut bduet potom tbilisi"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Itsly amster budet in oct vse",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Itsly amster budet in oct vse"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Reshilo",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Reshilo"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "i",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 30263,
+    "width": 590,
+    "height": 1280,
+    "text": "ну вот так можно",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ну вот так можно"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "da podumaiu skazhu na vixodnix tochna",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da podumaiu skazhu na vixodnix tochna"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "no norm variant",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "no norm variant"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "это +- по дням просто",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "это +- по дням просто"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ну да крч",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ну да крч"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "forwarded_from": "Polinochka ❤️‍🔥🐈",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 42397,
+    "width": 590,
+    "height": 1280,
+    "text": "оценила мою реакцию?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "оценила мою реакцию?"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я ору",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я ору"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "у меня рефлекторное",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "у меня рефлекторное"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83541,
+    "text": "пздц мы тогда год будем знаклсы",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "пздц мы тогда год будем знаклсы"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "знакомы типа",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "знакомы типа"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "урааа отметим",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "урааа отметим"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "video.mp4",
+    "file_size": 5669728,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 22291,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 42,
+    "width": 400,
+    "height": 400,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83554,
+    "text": "da uraa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da uraa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      {
+        "type": "custom_emoji",
+        "text": "💐",
+        "document_id": "stickers/AnimatedSticker (65).tgs"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "custom_emoji",
+        "text": "💐",
+        "document_id": "stickers/AnimatedSticker (65).tgs"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83555,
+    "text": "da chill",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da chill"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ne dumaiu shto shtoa serioznaya",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ne dumaiu shto shtoa serioznaya"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 231719,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 60,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 121156,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 31,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Im in acall will listen a bit later",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Im in acall will listen a bit later"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83560,
+    "text": "i get it",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i get it"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ye better to go and check\nAnd relax",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ye better to go and check\nAnd relax"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Che kakiee planiii",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Che kakiee planiii"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "In stinn in call",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "In stinn in call"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 139566,
+    "width": 960,
+    "height": 1280,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ща 5 мин напишу",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ща 5 мин напишу"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "просто госпади",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "просто госпади"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "день чето быстро прошел я ниче не сделала",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "день чето быстро прошел я ниче не сделала"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 112703,
+    "width": 590,
+    "height": 1280,
+    "text": "я в шоке",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я в шоке"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nu krasiva",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu krasiva"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "da mi tozhe uvidem",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da mi tozhe uvidem"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Babyy",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Babyy"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 40282,
+    "width": 590,
+    "height": 1280,
+    "text": "че за пассивная агрессия.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "че за пассивная агрессия."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "video.mp4",
+    "file_size": 719208,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 16880,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 5,
+    "width": 400,
+    "height": 400,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83575,
+    "text": "nu vopros",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu vopros"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ninau",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ninau"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Myauu",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Myauu"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 83576,
+    "text": "Et gde",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Et gde"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "на нашем базовом месте",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "на нашем базовом месте"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ponn pon",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ponn pon"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "сегодня герлз найт аут",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "сегодня герлз найт аут"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ну не прям найт аут но вот с катей и лизой пойдем куда-то",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ну не прям найт аут но вот с катей и лизой пойдем куда-то"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "oouu myy",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "oouu myy"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nice nice",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nice nice"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Mne zhdat drunk msgs ili net?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Mne zhdat drunk msgs ili net?"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 10614,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 6778,
+    "media_type": "sticker",
+    "sticker_emoji": "🥹",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "нинаюююю",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "нинаюююю"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "но не поздно я думаю и я не уверена что мы пойдем .. как обычно азаза за",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "но не поздно я думаю и я не уверена что мы пойдем .. как обычно азаза за"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "baza",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "baza"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я уже оттягиваю мое время в кофейне чтобы идти готовить курицу домой",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я уже оттягиваю мое время в кофейне чтобы идти готовить курицу домой"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "пп эра убивает",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "пп эра убивает"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "…",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "…"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "whats pp",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "whats pp"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "может в португалию переехать а не испанию",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "может в португалию переехать а не испанию"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "…",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "…"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 73549,
+    "width": 590,
+    "height": 1280,
+    "text": "так кем бы мне стать",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "так кем бы мне стать"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "думаю профессиональным барьером",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "думаю профессиональным барьером"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "барбером",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "барбером"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "da norm plan",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da norm plan"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Davai babbyyy u can do it",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Davai babbyyy u can do it"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "чтобы я тебя стригла и ты не выпендривался",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "чтобы я тебя стригла и ты не выпендривался"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "hahha",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hahha"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "i approve",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i approve"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Misss uuu",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Misss uuu"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ochen ochen",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ochen ochen"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 53428,
+    "width": 588,
+    "height": 1280,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "тази не самое удачное фото..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "тази не самое удачное фото.."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 83606,
+    "text": "я тоже очень",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я тоже очень"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "у меня сэд моумееь",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "у меня сэд моумееь"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "моумент",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "моумент"
+      }
+    ]
+  }
+]

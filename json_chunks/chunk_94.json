@@ -1,0 +1,4239 @@
+[
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "че не нравится.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "че не нравится."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 27098,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 12078,
+    "media_type": "sticker",
+    "sticker_emoji": "🤨",
+    "mime_type": "image/webp",
+    "width": 335,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "forwarded_from": "КиберТопор",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 103727,
+    "width": 1200,
+    "height": 750,
+    "text": [
+      {
+        "type": "bold",
+        "text": "Джуны перестали понимать, как работает код — всё из-за нейросетей."
+      },
+      "\n\nРазработчик ",
+      {
+        "type": "bold",
+        "text": "Наманяй Гоел "
+      },
+      "провёл исследование, в котором выяснилось, что ",
+      {
+        "type": "bold",
+        "text": "новички всё чаще используют ИИ "
+      },
+      "для написания кода, хоть и ",
+      {
+        "type": "bold",
+        "text": "не понимают,"
+      },
+      " как он работает. \n\nЕсли раньше джуны сталкивались с ошибкой, то могли загуглить решение и исправить проблему, то сейчас они просто закидывают код в нейронку и просят исправить. Это приводит к тому, что компании всё реже ищут кодеров-новичков, т.к. с ошибками могут справиться нейросети. \n\nПроблема же в том, что без джунов не будет новых мидлов и сеньоров.\n\n🕹",
+      {
+        "type": "text_link",
+        "text": "КиберТопор — Подписаться",
+        "href": "https://t.me/+6fyKjmOWmW5lYzMy"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "bold",
+        "text": "Джуны перестали понимать, как работает код — всё из-за нейросетей."
+      },
+      {
+        "type": "plain",
+        "text": "\n\nРазработчик "
+      },
+      {
+        "type": "bold",
+        "text": "Наманяй Гоел "
+      },
+      {
+        "type": "plain",
+        "text": "провёл исследование, в котором выяснилось, что "
+      },
+      {
+        "type": "bold",
+        "text": "новички всё чаще используют ИИ "
+      },
+      {
+        "type": "plain",
+        "text": "для написания кода, хоть и "
+      },
+      {
+        "type": "bold",
+        "text": "не понимают,"
+      },
+      {
+        "type": "plain",
+        "text": " как он работает. \n\nЕсли раньше джуны сталкивались с ошибкой, то могли загуглить решение и исправить проблему, то сейчас они просто закидывают код в нейронку и просят исправить. Это приводит к тому, что компании всё реже ищут кодеров-новичков, т.к. с ошибками могут справиться нейросети. \n\nПроблема же в том, что без джунов не будет новых мидлов и сеньоров.\n\n🕹"
+      },
+      {
+        "type": "text_link",
+        "text": "КиберТопор — Подписаться",
+        "href": "https://t.me/+6fyKjmOWmW5lYzMy"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "real",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "real"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 20078,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 5,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 9722,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 2,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "i inow",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i inow"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": [
+      {
+        "type": "link",
+        "text": "https://www.instagram.com/reel/DGDH-LIIctP/?igsh=cHZ2OTR6a3N1d3Zz"
+      }
+    ],
+    "text_entities": [
+      {
+        "type": "link",
+        "text": "https://www.instagram.com/reel/DGDH-LIIctP/?igsh=cHZ2OTR6a3N1d3Zz"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 24587,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 6,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "da",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Xoroshi molodoi chelovek",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Xoroshi molodoi chelovek"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Respect emu",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Respect emu"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "video.mp4",
+    "file_size": 1475416,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 15567,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 11,
+    "width": 400,
+    "height": 400,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 10614,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 6778,
+    "media_type": "sticker",
+    "sticker_emoji": "🥹",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 26156,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 14000,
+    "media_type": "sticker",
+    "sticker_emoji": "🥰",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "hahhaha",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hahhaha"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "sensing kissess on forehead",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "sensing kissess on forehead"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "and cheeks",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "and cheeks"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nu i zhopa somo soboi",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu i zhopa somo soboi"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 149384,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 7116,
+    "media_type": "sticker",
+    "sticker_emoji": "🙄",
+    "mime_type": "video/webm",
+    "duration_seconds": 2,
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я поспалаааааа",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я поспалаааааа"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "как ты",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "как ты"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "скучаю",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "скучаю"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "что делаешь",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "что делаешь"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "😚😚😚😚",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "😚😚😚😚"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 15322,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 9756,
+    "media_type": "sticker",
+    "sticker_emoji": "🙂",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63673,
+    "text": "filing some work visa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "filing some work visa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Docs",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Docs"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "its like green card loterry",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "its like green card loterry"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "but for work visa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "but for work visa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "happenes in march every yeat",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "happenes in march every yeat"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ladt yesr i wasnoy picked",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ladt yesr i wasnoy picked"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Gonna try this yesr again",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Gonna try this yesr again"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "pon pon",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "pon pon"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "i’m trying to wake uppp…….",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i’m trying to wake uppp……."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "был очен кози нэп..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "был очен кози нэп.."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 10614,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 6778,
+    "media_type": "sticker",
+    "sticker_emoji": "🥹",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 63402,
+    "text": "какая хорошая песня",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "какая хорошая песня"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63685,
+    "text": "nicee",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nicee"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63672,
+    "text": "me toooo",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "me toooo"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ochen",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ochen"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 257183,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 6790,
+    "media_type": "sticker",
+    "sticker_emoji": "😘",
+    "mime_type": "video/webm",
+    "duration_seconds": 3,
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "what’s new",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "what’s new"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "tell me",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "tell me"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 4311,
+    "width": 181,
+    "height": 108,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "da nothing from yesterday",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da nothing from yesterday"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "slept woke up now worming hahah",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "slept woke up now worming hahah"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "baza",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "baza"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ponyatnoooo",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ponyatnoooo"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 186226,
+    "width": 960,
+    "height": 1280,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 138316,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 35,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 241128,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 61,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 30438,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 7,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 196441,
+    "media_type": "voice_message",
+    "mime_type": "audio/ogg",
+    "duration_seconds": 50,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "hmm interesting",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hmm interesting"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 177788,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 7372,
+    "media_type": "sticker",
+    "sticker_emoji": "😳",
+    "mime_type": "video/webm",
+    "duration_seconds": 3,
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Che lakie planii",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Che lakie planii"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "Na vecheer",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Na vecheer"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "дубай этот..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "дубай этот.."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 149384,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 7116,
+    "media_type": "sticker",
+    "sticker_emoji": "🙄",
+    "mime_type": "video/webm",
+    "duration_seconds": 2,
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 219965,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 10430,
+    "media_type": "sticker",
+    "sticker_emoji": "😶",
+    "mime_type": "video/webm",
+    "duration_seconds": 3,
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "a u tebyaaaaa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "a u tebyaaaaa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "i’m glad u woke up earlier today",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i’m glad u woke up earlier today"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "finally",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "finally"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 161151,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 8906,
+    "media_type": "sticker",
+    "sticker_emoji": "🥳",
+    "mime_type": "video/webm",
+    "duration_seconds": 3,
+    "width": 512,
+    "height": 384,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63712,
+    "text": "Yee",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Yee"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "will get into my normal routine",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "will get into my normal routine"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63711,
+    "text": "norhing interesting work and gym",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "norhing interesting work and gym"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "haha im a simple man",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "haha im a simple man"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 63717,
+    "text": "norm",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "norm"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "approve",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "approve"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "odobreno rodnoy",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "odobreno rodnoy"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 7520,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 4174,
+    "media_type": "sticker",
+    "sticker_emoji": "😍",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 255,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 2696,
+    "thumbnail": "stickers/sticker.webp_thumb.jpg",
+    "thumbnail_file_size": 1428,
+    "media_type": "sticker",
+    "sticker_emoji": "🤏",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 255,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 10614,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 6778,
+    "media_type": "sticker",
+    "sticker_emoji": "🥹",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "pasibaa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "pasibaa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      {
+        "type": "custom_emoji",
+        "text": "😘",
+        "document_id": "stickers/AnimatedSticker (66).tgs"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "custom_emoji",
+        "text": "😘",
+        "document_id": "stickers/AnimatedSticker (66).tgs"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 55532,
+    "width": 1206,
+    "height": 669,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63725,
+    "text": "Identical",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Identical"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 63728,
+    "text": "тази ты уже четвертый раз это кидаешь",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "тази ты уже четвертый раз это кидаешь"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ахахаахахаха",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ахахаахахаха"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nu shto podelat ochen nravitsa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu shto podelat ochen nravitsa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": ".",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ladnooooo",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ladnooooo"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 49923,
+    "text": "кххкхкхахахахахахахахаха",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "кххкхкхахахахахахахахаха"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "реально нетронутые",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "реально нетронутые"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "miss u/:((((((",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "miss u/:(((((("
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63736,
+    "text": "hahha",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hahha"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "was nice time st that bat",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "was nice time st that bat"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "r",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "r"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "miss u tooo",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "miss u tooo"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "photo": "(File not included. Change data exporting settings to download.)",
+    "photo_file_size": 34278,
+    "width": 643,
+    "height": 716,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "so cuteee",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "so cuteee"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "who is this mikro",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "who is this mikro"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "from reels",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "from reels"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "i want zis",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i want zis"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "cute puppy",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "cute puppy"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "daa i saw it",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "daa i saw it"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "cute guy",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "cute guy"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "йа я не хочу в москву..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "йа я не хочу в москву.."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "forwarded_from": "Новости Москвы",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "IMG_1604.MP4",
+    "file_size": 6529774,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 7823,
+    "media_type": "video_file",
+    "mime_type": "video/mp4",
+    "duration_seconds": 33,
+    "width": 720,
+    "height": 842,
+    "text": [
+      {
+        "type": "text_link",
+        "text": "🚂",
+        "href": "https://t.me/moscowmap"
+      },
+      " Так выглядит поездка на электричке Павелецкого направления в метель из кабины машиниста\n\n",
+      {
+        "type": "italic",
+        "text": "Посреди огней вечерних и гудков машин"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "text_link",
+        "text": "🚂",
+        "href": "https://t.me/moscowmap"
+      },
+      {
+        "type": "plain",
+        "text": " Так выглядит поездка на электричке Павелецкого направления в метель из кабины машиниста\n\n"
+      },
+      {
+        "type": "italic",
+        "text": "Посреди огней вечерних и гудков машин"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63750,
+    "text": "ya tozhe",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ya tozhe"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "🙄",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "🙄"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "москва буквально париж",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "москва буквально париж"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "париж буквально москва",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "париж буквально москва"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "шаришь?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "шаришь?"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "а ты занят???",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "а ты занят???"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "video.mp4",
+    "file_size": 3120290,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 20681,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 23,
+    "width": 400,
+    "height": 400,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "Websites rely on static CTAs but could improve engagement. More interactive tools can capture leads effectively.\n\nAI-powered chatbots for instant assistance.\nVirtual property tours for better user experience.\nLead magnets like free market reports or investment guides.\nThis structured presentation ensures clarity and highlights key takeaways for a new real estate website project.",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "Websites rely on static CTAs but could improve engagement. More interactive tools can capture leads effectively.\n\nAI-powered chatbots for instant assistance.\nVirtual property tours for better user experience.\nLead magnets like free market reports or investment guides.\nThis structured presentation ensures clarity and highlights key takeaways for a new real estate website project."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я чо знаю что это такое",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я чо знаю что это такое"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 243018,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 8538,
+    "media_type": "sticker",
+    "sticker_emoji": "😭",
+    "mime_type": "video/webm",
+    "duration_seconds": 3,
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63758,
+    "text": "hahha",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hahha"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "i was cooking",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i was cooking"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "gonna eat now",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "gonna eat now"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ti razabralas?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ti razabralas?"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "мне нужно срочно колу чтобы понять",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "мне нужно срочно колу чтобы понять"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "video.mp4",
+    "file_size": 3707451,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 13741,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 27,
+    "width": 400,
+    "height": 400,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "video.mp4",
+    "file_size": 6630069,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 14111,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 49,
+    "width": 400,
+    "height": 400,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ill finish eating and can call",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ill finish eating and can call"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "я в магаз схожу",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "я в магаз схожу"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 63769,
+    "text": "понравилась моя оценка?",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "понравилась моя оценка?"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "приятного аппетита",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "приятного аппетита"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "😚😚😚😚😚",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "😚😚😚😚😚"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      "pasibo ",
+      {
+        "type": "custom_emoji",
+        "text": "😘",
+        "document_id": "stickers/sticker (126).webp"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "pasibo "
+      },
+      {
+        "type": "custom_emoji",
+        "text": "😘",
+        "document_id": "stickers/sticker (126).webp"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63772,
+    "text": "da luchshe i ne skazhesh",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "da luchshe i ne skazhesh"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "approve",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "approve"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "сенк ю бейби",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "сенк ю бейби"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "can i call",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "can i call"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "5 min",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "5 min"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "ok mb 10  need to check smth for work",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ok mb 10  need to check smth for work"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "np",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "np"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": [
+      "waiting ",
+      {
+        "type": "custom_emoji",
+        "text": "🙂",
+        "document_id": "stickers/sticker (32).webp"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🙂",
+        "document_id": "stickers/sticker (32).webp"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🙂",
+        "document_id": "stickers/sticker (32).webp"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🙂",
+        "document_id": "stickers/sticker (32).webp"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "waiting "
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🙂",
+        "document_id": "stickers/sticker (32).webp"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🙂",
+        "document_id": "stickers/sticker (32).webp"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🙂",
+        "document_id": "stickers/sticker (32).webp"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🙂",
+        "document_id": "stickers/sticker (32).webp"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nu ill call now but i need do smth for work",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu ill call now but i need do smth for work"
+      }
+    ]
+  },
+  {
+    "type": "service",
+    "actor": "Tazi",
+    "actor_id": "user8141948028",
+    "action": "phone_call",
+    "discard_reason": "hangup",
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "прием",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "прием"
+      }
+    ]
+  },
+  {
+    "type": "service",
+    "actor": "Polinochka ❤️‍🔥🐈",
+    "actor_id": "user448614268",
+    "action": "phone_call",
+    "discard_reason": "hangup",
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": [
+      {
+        "type": "link",
+        "text": "https://docs.google.com/presentation/d/1qhiiv5zCnq4v5xwKgatTTFehT7fNblf_A1R45uwR9NY/edit?usp=sharing"
+      }
+    ],
+    "text_entities": [
+      {
+        "type": "link",
+        "text": "https://docs.google.com/presentation/d/1qhiiv5zCnq4v5xwKgatTTFehT7fNblf_A1R45uwR9NY/edit?usp=sharing"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      {
+        "type": "link",
+        "text": "https://chatgpt.com/share/67b38703-29a8-800d-8988-f0d889c93c4f"
+      }
+    ],
+    "text_entities": [
+      {
+        "type": "link",
+        "text": "https://chatgpt.com/share/67b38703-29a8-800d-8988-f0d889c93c4f"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      "These real estate websites share several common functionalities and UI/UX approaches, reflecting industry standards and user expectations for property Browse. However, they also have areas where they could improve to enhance user experience.\n\nHere's an analysis of the websites you provided:\n\n",
+      {
+        "type": "bold",
+        "text": "Common Functionalities and UI/UX Elements:"
+      },
+      "\n\n",
+      {
+        "type": "bold",
+        "text": "Visual-First Approach:"
+      },
+      " All websites heavily rely on high-quality imagery and videos to showcase properties and developments. This is crucial in real estate to create emotional appeal and visualize the product.\n",
+      {
+        "type": "bold",
+        "text": "Prominent Property Search:"
+      },
+      "  Each website features a prominent property search bar, usually on the homepage or easily accessible in the navigation. Search filters typically include location, property type (apartment, villa, etc.), bedrooms, and price range. This is a core functionality for users to find relevant listings quickly.\n  ",
+      {
+        "type": "bold",
+        "text": "Detailed Property/Project Listings:"
+      },
+      "  Websites offer dedicated pages for each property or project, providing comprehensive information. This includes:\n",
+      {
+        "type": "bold",
+        "text": "Image Galleries & Videos:"
+      },
+      " Showcasing various aspects of the property/project.\n",
+      {
+        "type": "bold",
+        "text": "Key Features & Amenities:"
+      },
+      " Listing important details like size, bedrooms, bathrooms, facilities, and unique selling points.\n  ",
+      {
+        "type": "bold",
+        "text": "Location Information & Maps:"
+      },
+      "  Integrating maps to show property location and nearby amenities.   \n\n",
+      {
+        "type": "bold",
+        "text": "Floor Plans:"
+      },
+      "  Often available for download or viewing online.\n  ",
+      {
+        "type": "bold",
+        "text": "Contact Forms/Inquiry Buttons:"
+      },
+      "  Clear calls to action to encourage users to inquire or contact sales teams.   \n\n   \n\n",
+      {
+        "type": "bold",
+        "text": "Clear Navigation:"
+      },
+      "  Websites generally have straightforward navigation menus, typically including sections like \"Properties,\" \"Projects,\" \"About Us,\" \"Contact,\" and sometimes \"Invest\" or \"Lifestyle.\"\n",
+      {
+        "type": "bold",
+        "text": "Mobile Responsiveness:"
+      },
+      " All websites appear to be responsive, adapting to different screen sizes for optimal viewing on desktops, tablets, and smartphones.\n  ",
+      {
+        "type": "bold",
+        "text": "Modern and Clean Design:"
+      },
+      "  The overall design aesthetic is modern, clean, and professional, aligning with the luxury and high-value nature of real estate.   \n",
+      {
+        "type": "bold",
+        "text": "Brand Focus:"
+      },
+      " Each website subtly reinforces its brand through consistent design elements, typography, and tone of voice.\n\n",
+      {
+        "type": "bold",
+        "text": "Good Features Observed:"
+      },
+      "\n",
+      {
+        "type": "bold",
+        "text": "High-Quality Visuals (All):"
+      },
+      " The use of professional photography and videography significantly enhances the appeal of the properties.  Websites like ",
+      {
+        "type": "text_link",
+        "text": "Damac Properties",
+        "href": "https://www.damacproperties.com/en/"
+      },
+      ", ",
+      {
+        "type": "text_link",
+        "text": "Leos Developments",
+        "href": "https://leosdevelopments.com/"
+      },
+      ", and ",
+      {
+        "type": "text_link",
+        "text": "Binghatti",
+        "href": "https://binghatti.com/"
+      },
+      " particularly excel in this area, creating a luxurious and aspirational feel.\n",
+      {
+        "type": "bold",
+        "text": "Interactive Project Overviews (Nakheel, Emaar):"
+      },
+      " ",
+      {
+        "type": "text_link",
+        "text": "Nakheel",
+        "href": "https://www.nakheel.com/en/new-launches"
+      },
+      " and ",
+      {
+        "type": "text_link",
+        "text": "Emaar",
+        "href": "https://www.emaar.com/"
+      },
+      " effectively use interactive elements like master plan views and project timelines to give users a comprehensive understanding of large-scale developments. This helps in visualizing the community and future growth.\n",
+      {
+        "type": "bold",
+        "text": "Detailed Location Information (Emaar, Nakheel):"
+      },
+      "  ",
+      {
+        "type": "text_link",
+        "text": "Emaar",
+        "href": "https://www.emaar.com/"
+      },
+      " and ",
+      {
+        "type": "text_link",
+        "text": "Nakheel",
+        "href": "https://www.nakheel.com/en/new-launches"
+      },
+      " often integrate Google Maps effectively, showcasing not just the property location but also nearby points of interest, amenities, and transport links.\n  ",
+      {
+        "type": "bold",
+        "text": "Clear Calls to Action (All):"
+      },
+      "  Websites effectively use buttons and forms to guide users towards making inquiries, requesting brochures, or contacting sales teams. ",
+      {
+        "type": "text_link",
+        "text": "Binghatti",
+        "href": "https://binghatti.com/"
+      },
+      " for example uses a prominent \"Request Details\" button on project pages.   \n\n",
+      {
+        "type": "bold",
+        "text": "Multi-Language Support (Damac, Nakheel, Emaar):"
+      },
+      " ",
+      {
+        "type": "text_link",
+        "text": "Damac Properties",
+        "href": "https://www.damacproperties.com/en/"
+      },
+      ", ",
+      {
+        "type": "text_link",
+        "text": "Nakheel",
+        "href": "https://www.nakheel.com/en/new-launches"
+      },
+      ", and ",
+      {
+        "type": "text_link",
+        "text": "Emaar",
+        "href": "https://www.emaar.com/"
+      },
+      " offer multi-language options, catering to a global audience, which is essential for international real estate developers.\n",
+      {
+        "type": "bold",
+        "text": "Lacking Features and Areas for Improvement:"
+      },
+      "\n\n  ",
+      {
+        "type": "bold",
+        "text": "Virtual Tours & 360° Views:"
+      },
+      " While images are crucial, incorporating virtual tours or 360° views would significantly enhance the user experience, allowing for a more immersive and realistic property viewing experience. This is especially valuable for off-plan properties.   \n  ",
+      {
+        "type": "bold",
+        "text": "Real-time Chat Support:"
+      },
+      "  Implementing a real-time chat feature could provide immediate assistance to users with queries, improving engagement and lead generation.   \n\n",
+      {
+        "type": "bold",
+        "text": "Personalization & User Accounts:"
+      },
+      "  None of the websites seem to offer personalized experiences based on user preferences or Browse history. Features like saved searches, favorite properties, and"
+    ],
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "These real estate websites share several common functionalities and UI/UX approaches, reflecting industry standards and user expectations for property Browse. However, they also have areas where they could improve to enhance user experience.\n\nHere's an analysis of the websites you provided:\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Common Functionalities and UI/UX Elements:"
+      },
+      {
+        "type": "plain",
+        "text": "\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Visual-First Approach:"
+      },
+      {
+        "type": "plain",
+        "text": " All websites heavily rely on high-quality imagery and videos to showcase properties and developments. This is crucial in real estate to create emotional appeal and visualize the product.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Prominent Property Search:"
+      },
+      {
+        "type": "plain",
+        "text": "  Each website features a prominent property search bar, usually on the homepage or easily accessible in the navigation. Search filters typically include location, property type (apartment, villa, etc.), bedrooms, and price range. This is a core functionality for users to find relevant listings quickly.\n  "
+      },
+      {
+        "type": "bold",
+        "text": "Detailed Property/Project Listings:"
+      },
+      {
+        "type": "plain",
+        "text": "  Websites offer dedicated pages for each property or project, providing comprehensive information. This includes:\n"
+      },
+      {
+        "type": "bold",
+        "text": "Image Galleries & Videos:"
+      },
+      {
+        "type": "plain",
+        "text": " Showcasing various aspects of the property/project.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Key Features & Amenities:"
+      },
+      {
+        "type": "plain",
+        "text": " Listing important details like size, bedrooms, bathrooms, facilities, and unique selling points.\n  "
+      },
+      {
+        "type": "bold",
+        "text": "Location Information & Maps:"
+      },
+      {
+        "type": "plain",
+        "text": "  Integrating maps to show property location and nearby amenities.   \n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Floor Plans:"
+      },
+      {
+        "type": "plain",
+        "text": "  Often available for download or viewing online.\n  "
+      },
+      {
+        "type": "bold",
+        "text": "Contact Forms/Inquiry Buttons:"
+      },
+      {
+        "type": "plain",
+        "text": "  Clear calls to action to encourage users to inquire or contact sales teams.   \n\n   \n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Clear Navigation:"
+      },
+      {
+        "type": "plain",
+        "text": "  Websites generally have straightforward navigation menus, typically including sections like \"Properties,\" \"Projects,\" \"About Us,\" \"Contact,\" and sometimes \"Invest\" or \"Lifestyle.\"\n"
+      },
+      {
+        "type": "bold",
+        "text": "Mobile Responsiveness:"
+      },
+      {
+        "type": "plain",
+        "text": " All websites appear to be responsive, adapting to different screen sizes for optimal viewing on desktops, tablets, and smartphones.\n  "
+      },
+      {
+        "type": "bold",
+        "text": "Modern and Clean Design:"
+      },
+      {
+        "type": "plain",
+        "text": "  The overall design aesthetic is modern, clean, and professional, aligning with the luxury and high-value nature of real estate.   \n"
+      },
+      {
+        "type": "bold",
+        "text": "Brand Focus:"
+      },
+      {
+        "type": "plain",
+        "text": " Each website subtly reinforces its brand through consistent design elements, typography, and tone of voice.\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Good Features Observed:"
+      },
+      {
+        "type": "plain",
+        "text": "\n"
+      },
+      {
+        "type": "bold",
+        "text": "High-Quality Visuals (All):"
+      },
+      {
+        "type": "plain",
+        "text": " The use of professional photography and videography significantly enhances the appeal of the properties.  Websites like "
+      },
+      {
+        "type": "text_link",
+        "text": "Damac Properties",
+        "href": "https://www.damacproperties.com/en/"
+      },
+      {
+        "type": "plain",
+        "text": ", "
+      },
+      {
+        "type": "text_link",
+        "text": "Leos Developments",
+        "href": "https://leosdevelopments.com/"
+      },
+      {
+        "type": "plain",
+        "text": ", and "
+      },
+      {
+        "type": "text_link",
+        "text": "Binghatti",
+        "href": "https://binghatti.com/"
+      },
+      {
+        "type": "plain",
+        "text": " particularly excel in this area, creating a luxurious and aspirational feel.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Interactive Project Overviews (Nakheel, Emaar):"
+      },
+      {
+        "type": "plain",
+        "text": " "
+      },
+      {
+        "type": "text_link",
+        "text": "Nakheel",
+        "href": "https://www.nakheel.com/en/new-launches"
+      },
+      {
+        "type": "plain",
+        "text": " and "
+      },
+      {
+        "type": "text_link",
+        "text": "Emaar",
+        "href": "https://www.emaar.com/"
+      },
+      {
+        "type": "plain",
+        "text": " effectively use interactive elements like master plan views and project timelines to give users a comprehensive understanding of large-scale developments. This helps in visualizing the community and future growth.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Detailed Location Information (Emaar, Nakheel):"
+      },
+      {
+        "type": "plain",
+        "text": "  "
+      },
+      {
+        "type": "text_link",
+        "text": "Emaar",
+        "href": "https://www.emaar.com/"
+      },
+      {
+        "type": "plain",
+        "text": " and "
+      },
+      {
+        "type": "text_link",
+        "text": "Nakheel",
+        "href": "https://www.nakheel.com/en/new-launches"
+      },
+      {
+        "type": "plain",
+        "text": " often integrate Google Maps effectively, showcasing not just the property location but also nearby points of interest, amenities, and transport links.\n  "
+      },
+      {
+        "type": "bold",
+        "text": "Clear Calls to Action (All):"
+      },
+      {
+        "type": "plain",
+        "text": "  Websites effectively use buttons and forms to guide users towards making inquiries, requesting brochures, or contacting sales teams. "
+      },
+      {
+        "type": "text_link",
+        "text": "Binghatti",
+        "href": "https://binghatti.com/"
+      },
+      {
+        "type": "plain",
+        "text": " for example uses a prominent \"Request Details\" button on project pages.   \n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Multi-Language Support (Damac, Nakheel, Emaar):"
+      },
+      {
+        "type": "plain",
+        "text": " "
+      },
+      {
+        "type": "text_link",
+        "text": "Damac Properties",
+        "href": "https://www.damacproperties.com/en/"
+      },
+      {
+        "type": "plain",
+        "text": ", "
+      },
+      {
+        "type": "text_link",
+        "text": "Nakheel",
+        "href": "https://www.nakheel.com/en/new-launches"
+      },
+      {
+        "type": "plain",
+        "text": ", and "
+      },
+      {
+        "type": "text_link",
+        "text": "Emaar",
+        "href": "https://www.emaar.com/"
+      },
+      {
+        "type": "plain",
+        "text": " offer multi-language options, catering to a global audience, which is essential for international real estate developers.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Lacking Features and Areas for Improvement:"
+      },
+      {
+        "type": "plain",
+        "text": "\n\n  "
+      },
+      {
+        "type": "bold",
+        "text": "Virtual Tours & 360° Views:"
+      },
+      {
+        "type": "plain",
+        "text": " While images are crucial, incorporating virtual tours or 360° views would significantly enhance the user experience, allowing for a more immersive and realistic property viewing experience. This is especially valuable for off-plan properties.   \n  "
+      },
+      {
+        "type": "bold",
+        "text": "Real-time Chat Support:"
+      },
+      {
+        "type": "plain",
+        "text": "  Implementing a real-time chat feature could provide immediate assistance to users with queries, improving engagement and lead generation.   \n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Personalization & User Accounts:"
+      },
+      {
+        "type": "plain",
+        "text": "  None of the websites seem to offer personalized experiences based on user preferences or Browse history. Features like saved searches, favorite properties, and"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      "personalized recommendations could be valuable additions. User accounts could also facilitate easier inquiry management and follow-up.\nCommunity & Lifestyle Focus:  While properties are showcased, there could be more emphasis on the lifestyle and community aspects associated with each develop",
+      {
+        "type": "bold",
+        "text": "ment. Content highlighting local amenities"
+      },
+      ", ",
+      {
+        "type": "bold",
+        "text": "schools, lifestyle off"
+      },
+      "erings, and community events could attract users seeking a specific lifestyle.\nAccessibility Considerations:  While visually appealing, the websites should be evaluated for accessibility c",
+      {
+        "type": "bold",
+        "text": "ompliance (WCAG guidelines"
+      },
+      "). Ensuring usability for people with disabilities is crucial for inclusivity. This could involve checking color contrast, keyboard navigation, and screen reader compatibility.\n  Website Performance & Speed: Websites with heavy visuals can sometimes be slow to load, especially on mobile devices. Optimizing",
+      {
+        "type": "bold",
+        "text": " images and website performance is "
+      },
+      "important for user retention and SEO.   \nClearer Differentiation: While each brand has its own style, some could fu",
+      {
+        "type": "bold",
+        "text": "rther emphasize their uni"
+      },
+      "que selling propositions more explicitly in the UI/UX",
+      {
+        "type": "bold",
+        "text": ". For example, if a devel"
+      },
+      "oper specializes in sustainable building, this could be highlighted more prominently.\n\nIn conclusion",
+      {
+        "type": "bold",
+        "text": ":\nThese competitor websites "
+      },
+      "establish a solid foundation for a real estate platform, focusing on vi",
+      {
+        "type": "bold",
+        "text": "sual appeal,"
+      },
+      " property search, and detailed listings. To build a ",
+      {
+        "type": "bold",
+        "text": "competitive website, you shoul"
+      },
+      "d definitely incorporate these common features. However, to stand out, consider focusin",
+      {
+        "type": "bold",
+        "text": "g on areas where "
+      },
+      "they are lacking, such as immersive virtual tours, personalized user experiences, enhanced community content, and ensuring optimal accessibility and performance. By addressing these ",
+      {
+        "type": "bold",
+        "text": "areas, you can create "
+      },
+      "a more engaging and user-friendly real estate website."
+    ],
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "personalized recommendations could be valuable additions. User accounts could also facilitate easier inquiry management and follow-up.\nCommunity & Lifestyle Focus:  While properties are showcased, there could be more emphasis on the lifestyle and community aspects associated with each develop"
+      },
+      {
+        "type": "bold",
+        "text": "ment. Content highlighting local amenities"
+      },
+      {
+        "type": "plain",
+        "text": ", "
+      },
+      {
+        "type": "bold",
+        "text": "schools, lifestyle off"
+      },
+      {
+        "type": "plain",
+        "text": "erings, and community events could attract users seeking a specific lifestyle.\nAccessibility Considerations:  While visually appealing, the websites should be evaluated for accessibility c"
+      },
+      {
+        "type": "bold",
+        "text": "ompliance (WCAG guidelines"
+      },
+      {
+        "type": "plain",
+        "text": "). Ensuring usability for people with disabilities is crucial for inclusivity. This could involve checking color contrast, keyboard navigation, and screen reader compatibility.\n  Website Performance & Speed: Websites with heavy visuals can sometimes be slow to load, especially on mobile devices. Optimizing"
+      },
+      {
+        "type": "bold",
+        "text": " images and website performance is "
+      },
+      {
+        "type": "plain",
+        "text": "important for user retention and SEO.   \nClearer Differentiation: While each brand has its own style, some could fu"
+      },
+      {
+        "type": "bold",
+        "text": "rther emphasize their uni"
+      },
+      {
+        "type": "plain",
+        "text": "que selling propositions more explicitly in the UI/UX"
+      },
+      {
+        "type": "bold",
+        "text": ". For example, if a devel"
+      },
+      {
+        "type": "plain",
+        "text": "oper specializes in sustainable building, this could be highlighted more prominently.\n\nIn conclusion"
+      },
+      {
+        "type": "bold",
+        "text": ":\nThese competitor websites "
+      },
+      {
+        "type": "plain",
+        "text": "establish a solid foundation for a real estate platform, focusing on vi"
+      },
+      {
+        "type": "bold",
+        "text": "sual appeal,"
+      },
+      {
+        "type": "plain",
+        "text": " property search, and detailed listings. To build a "
+      },
+      {
+        "type": "bold",
+        "text": "competitive website, you shoul"
+      },
+      {
+        "type": "plain",
+        "text": "d definitely incorporate these common features. However, to stand out, consider focusin"
+      },
+      {
+        "type": "bold",
+        "text": "g on areas where "
+      },
+      {
+        "type": "plain",
+        "text": "they are lacking, such as immersive virtual tours, personalized user experiences, enhanced community content, and ensuring optimal accessibility and performance. By addressing these "
+      },
+      {
+        "type": "bold",
+        "text": "areas, you can create "
+      },
+      {
+        "type": "plain",
+        "text": "a more engaging and user-friendly real estate website."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      {
+        "type": "bold",
+        "text": "Enhancing Multi-Filter Search"
+      },
+      "\n\nTo address the lack of advanced search filters and create a seamless property finding experience, consider these tips:\n\n\n",
+      {
+        "type": "bold",
+        "text": "Comprehensive Filter Categories:"
+      },
+      "\n\n",
+      {
+        "type": "bold",
+        "text": "Location:"
+      },
+      "\n",
+      {
+        "type": "bold",
+        "text": "Granular Location Search:"
+      },
+      " Allow users to search by city, neighborhood, specific address, landmark, or even school district.\n",
+      {
+        "type": "bold",
+        "text": "Radius Search:"
+      },
+      " Implement a \"search within radius\" feature, letting users define a distance (e.g., 5km, 10km) from a specific point of interest.\n",
+      {
+        "type": "bold",
+        "text": "Location Autocomplete & Suggestions:"
+      },
+      " As users type, offer location suggestions to speed up input and reduce errors.\n\n\n",
+      {
+        "type": "bold",
+        "text": "Price Range:"
+      },
+      "\n",
+      {
+        "type": "bold",
+        "text": "Slider or Input Fields:"
+      },
+      " Offer both price range sliders for visual selection and direct input fields for precise values.\n",
+      {
+        "type": "bold",
+        "text": "Price per Area Unit (Optional):"
+      },
+      " For certain markets, consider allowing users to filter by price per square foot/meter.\n\n\n",
+      {
+        "type": "bold",
+        "text": "Property Type:"
+      },
+      "\n",
+      {
+        "type": "bold",
+        "text": "Clear Categories:"
+      },
+      " Use easily understandable categories like \"Apartment,\" \"Villa,\" \"Townhouse,\" \"Commercial,\" \"Land,\" etc.\n",
+      {
+        "type": "bold",
+        "text": "Sub-types (Optional):"
+      },
+      "  Within categories, offer sub-types (e.g., within \"Apartment\": \"Studio,\" \"1-Bedroom,\" \"Penthouse\").\n\n\n",
+      {
+        "type": "bold",
+        "text": "Size & Space:"
+      },
+      "\n",
+      {
+        "type": "bold",
+        "text": "Bedrooms & Bathrooms:"
+      },
+      "  Use clear, numerical selection (1+, 2+, 3+, etc.).\n",
+      {
+        "type": "bold",
+        "text": "Area/Size Range:"
+      },
+      " Allow users to filter by square footage/meter range, again with sliders or input fields.\n",
+      {
+        "type": "bold",
+        "text": "Lot Size (For Land/Villas):"
+      },
+      "  Include filters for lot size if relevant to your market.\n\n\n",
+      {
+        "type": "bold",
+        "text": "Developer (If Applicable):"
+      },
+      "\n",
+      {
+        "type": "bold",
+        "text": "Developer List:"
+      },
+      " If your site features properties from various developers, include a filter to search by developer name.\n\n\n",
+      {
+        "type": "bold",
+        "text": "Amenities & Features:"
+      },
+      "\n",
+      {
+        "type": "bold",
+        "text": "Extensive Amenity List:"
+      },
+      " Provide a comprehensive checklist of amenities (e.g., \"Swimming Pool,\" \"Gym,\" \"Parking,\" \"Balcony,\" \"Pet-Friendly,\" \"Furnished\").  Group amenities logically (e.g., \"Outdoor,\" \"Indoor,\" \"Community\").\n",
+      {
+        "type": "bold",
+        "text": "Specific Features:"
+      },
+      "  Include filters for specific features like \"Sea View,\" \"Corner Unit,\" \"Maid's Room,\" \"Private Garden.\"\n\n\n\n",
+      {
+        "type": "bold",
+        "text": "Property Status:"
+      },
+      "\n",
+      {
+        "type": "bold",
+        "text": "\"For Sale,\" \"For Rent,\" \"Off-Plan,\" \"Resale\":"
+      },
+      "  Allow users to filter by property status to narrow down their search based on their immediate needs.\n\n\n\n\n",
+      {
+        "type": "bold",
+        "text": "UI/UX for Filter Presentation:"
+      },
+      "\n\n",
+      {
+        "type": "bold",
+        "text": "Collapsible/Expandable Filters:"
+      },
+      "  Initially show only the most common filters (location, price, type). Use an \"Advanced Filters\" or \"More Filters\" button to expand and reveal less frequently used options, keeping the initial interface clean.\n",
+      {
+        "type": "bold",
+        "text": "Clear Filter Labels:"
+      },
+      " Use concise and easily understood labels for each filter (e.g., \"Bedrooms,\" not \"Number of Sleeping Quarters\").\n",
+      {
+        "type": "bold",
+        "text": "Visual Feedback:"
+      },
+      " Clearly indicate which filters are currently active. Use visual cues like highlighted filters, badges, or a summary of applied filters at the top of the search results.\n",
+      {
+        "type": "bold",
+        "text": "\"Clear All Filters\" Button:"
+      },
+      "  Provide an easy way to reset all filters with a single click.\n",
+      {
+        "type": "bold",
+        "text": "Responsive Filter Design:"
+      },
+      " Ensure filters are easily accessible and usable on all devices (desktops, tablets, and mobile). Consider a drawer or modal approach for filters on mobile.\n\n\n\n",
+      {
+        "type": "bold",
+        "text": "Seamless Filtering Experience:"
+      },
+      "\n\n",
+      {
+        "type": "bold",
+        "text": "Real-time Results Updates:"
+      },
+      "  Ideally, search results should update automatically as users apply filters, without requiring a manual \"Search\" button click. This provides instant feedback and encourages exploration. If real-time updates impact performance, consider an \"Apply Filters\" button that updates results on click.\n",
+      {
+        "type": "bold",
+        "text": "Filter Count Indicators:"
+      },
+      "  Show the number of properties that match each filter option (e.g., next to \"Apartment\" in the property type filter, display \"(250)\"). This helps users understand the impact of their filter choices.\n",
+      {
+        "type": "bold",
+        "text": "Persistent Filters:"
+      },
+      "  If a user navigates away from the search results page and then returns, maintain their applied filters so they don't have to re-apply them.\n",
+      {
+        "type": "bold",
+        "text": "Save Search Functionality (Optional but valuable):"
+      },
+      " Allow users to save their frequently used search criteria to easily revisit them later and receive notifications for new listings matching their saved searches.\n\n\n",
+      {
+        "type": "bold",
+        "text": "Enhancing Search Usability with Interactive Maps"
+      },
+      "\nInteractive maps are powerful tools for real estate search. Here's how to effectively integrate them:\n\n",
+      {
+        "type": "bold",
+        "text": "Prominent Map Integration:"
+      },
+      "\n\n",
+      {
+        "type": "bold",
+        "text": "Dual View (Map & Listings):"
+      }
+    ],
+    "text_entities": [
+      {
+        "type": "bold",
+        "text": "Enhancing Multi-Filter Search"
+      },
+      {
+        "type": "plain",
+        "text": "\n\nTo address the lack of advanced search filters and create a seamless property finding experience, consider these tips:\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Comprehensive Filter Categories:"
+      },
+      {
+        "type": "plain",
+        "text": "\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Location:"
+      },
+      {
+        "type": "plain",
+        "text": "\n"
+      },
+      {
+        "type": "bold",
+        "text": "Granular Location Search:"
+      },
+      {
+        "type": "plain",
+        "text": " Allow users to search by city, neighborhood, specific address, landmark, or even school district.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Radius Search:"
+      },
+      {
+        "type": "plain",
+        "text": " Implement a \"search within radius\" feature, letting users define a distance (e.g., 5km, 10km) from a specific point of interest.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Location Autocomplete & Suggestions:"
+      },
+      {
+        "type": "plain",
+        "text": " As users type, offer location suggestions to speed up input and reduce errors.\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Price Range:"
+      },
+      {
+        "type": "plain",
+        "text": "\n"
+      },
+      {
+        "type": "bold",
+        "text": "Slider or Input Fields:"
+      },
+      {
+        "type": "plain",
+        "text": " Offer both price range sliders for visual selection and direct input fields for precise values.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Price per Area Unit (Optional):"
+      },
+      {
+        "type": "plain",
+        "text": " For certain markets, consider allowing users to filter by price per square foot/meter.\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Property Type:"
+      },
+      {
+        "type": "plain",
+        "text": "\n"
+      },
+      {
+        "type": "bold",
+        "text": "Clear Categories:"
+      },
+      {
+        "type": "plain",
+        "text": " Use easily understandable categories like \"Apartment,\" \"Villa,\" \"Townhouse,\" \"Commercial,\" \"Land,\" etc.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Sub-types (Optional):"
+      },
+      {
+        "type": "plain",
+        "text": "  Within categories, offer sub-types (e.g., within \"Apartment\": \"Studio,\" \"1-Bedroom,\" \"Penthouse\").\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Size & Space:"
+      },
+      {
+        "type": "plain",
+        "text": "\n"
+      },
+      {
+        "type": "bold",
+        "text": "Bedrooms & Bathrooms:"
+      },
+      {
+        "type": "plain",
+        "text": "  Use clear, numerical selection (1+, 2+, 3+, etc.).\n"
+      },
+      {
+        "type": "bold",
+        "text": "Area/Size Range:"
+      },
+      {
+        "type": "plain",
+        "text": " Allow users to filter by square footage/meter range, again with sliders or input fields.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Lot Size (For Land/Villas):"
+      },
+      {
+        "type": "plain",
+        "text": "  Include filters for lot size if relevant to your market.\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Developer (If Applicable):"
+      },
+      {
+        "type": "plain",
+        "text": "\n"
+      },
+      {
+        "type": "bold",
+        "text": "Developer List:"
+      },
+      {
+        "type": "plain",
+        "text": " If your site features properties from various developers, include a filter to search by developer name.\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Amenities & Features:"
+      },
+      {
+        "type": "plain",
+        "text": "\n"
+      },
+      {
+        "type": "bold",
+        "text": "Extensive Amenity List:"
+      },
+      {
+        "type": "plain",
+        "text": " Provide a comprehensive checklist of amenities (e.g., \"Swimming Pool,\" \"Gym,\" \"Parking,\" \"Balcony,\" \"Pet-Friendly,\" \"Furnished\").  Group amenities logically (e.g., \"Outdoor,\" \"Indoor,\" \"Community\").\n"
+      },
+      {
+        "type": "bold",
+        "text": "Specific Features:"
+      },
+      {
+        "type": "plain",
+        "text": "  Include filters for specific features like \"Sea View,\" \"Corner Unit,\" \"Maid's Room,\" \"Private Garden.\"\n\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Property Status:"
+      },
+      {
+        "type": "plain",
+        "text": "\n"
+      },
+      {
+        "type": "bold",
+        "text": "\"For Sale,\" \"For Rent,\" \"Off-Plan,\" \"Resale\":"
+      },
+      {
+        "type": "plain",
+        "text": "  Allow users to filter by property status to narrow down their search based on their immediate needs.\n\n\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "UI/UX for Filter Presentation:"
+      },
+      {
+        "type": "plain",
+        "text": "\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Collapsible/Expandable Filters:"
+      },
+      {
+        "type": "plain",
+        "text": "  Initially show only the most common filters (location, price, type). Use an \"Advanced Filters\" or \"More Filters\" button to expand and reveal less frequently used options, keeping the initial interface clean.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Clear Filter Labels:"
+      },
+      {
+        "type": "plain",
+        "text": " Use concise and easily understood labels for each filter (e.g., \"Bedrooms,\" not \"Number of Sleeping Quarters\").\n"
+      },
+      {
+        "type": "bold",
+        "text": "Visual Feedback:"
+      },
+      {
+        "type": "plain",
+        "text": " Clearly indicate which filters are currently active. Use visual cues like highlighted filters, badges, or a summary of applied filters at the top of the search results.\n"
+      },
+      {
+        "type": "bold",
+        "text": "\"Clear All Filters\" Button:"
+      },
+      {
+        "type": "plain",
+        "text": "  Provide an easy way to reset all filters with a single click.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Responsive Filter Design:"
+      },
+      {
+        "type": "plain",
+        "text": " Ensure filters are easily accessible and usable on all devices (desktops, tablets, and mobile). Consider a drawer or modal approach for filters on mobile.\n\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Seamless Filtering Experience:"
+      },
+      {
+        "type": "plain",
+        "text": "\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Real-time Results Updates:"
+      },
+      {
+        "type": "plain",
+        "text": "  Ideally, search results should update automatically as users apply filters, without requiring a manual \"Search\" button click. This provides instant feedback and encourages exploration. If real-time updates impact performance, consider an \"Apply Filters\" button that updates results on click.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Filter Count Indicators:"
+      },
+      {
+        "type": "plain",
+        "text": "  Show the number of properties that match each filter option (e.g., next to \"Apartment\" in the property type filter, display \"(250)\"). This helps users understand the impact of their filter choices.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Persistent Filters:"
+      },
+      {
+        "type": "plain",
+        "text": "  If a user navigates away from the search results page and then returns, maintain their applied filters so they don't have to re-apply them.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Save Search Functionality (Optional but valuable):"
+      },
+      {
+        "type": "plain",
+        "text": " Allow users to save their frequently used search criteria to easily revisit them later and receive notifications for new listings matching their saved searches.\n\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Enhancing Search Usability with Interactive Maps"
+      },
+      {
+        "type": "plain",
+        "text": "\nInteractive maps are powerful tools for real estate search. Here's how to effectively integrate them:\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Prominent Map Integration:"
+      },
+      {
+        "type": "plain",
+        "text": "\n\n"
+      },
+      {
+        "type": "bold",
+        "text": "Dual View (Map & Listings):"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      {
+        "type": "bold",
+        "text": "Display the map alongside the"
+      },
+      " property listings.  Users can see properties on the map and in a list simultaneously. Consider allowing users to switch be",
+      {
+        "type": "bold",
+        "text": "tween a map-dominant view and a "
+      },
+      "li",
+      {
+        "type": "bold",
+        "text": "sting-dom"
+      },
+      "i",
+      {
+        "type": "bold",
+        "text": "nant view.\nMap as Primary"
+      },
+      " Search Interface (Optional):  Some users prefer to browse directly on a map. Offer a \"Map Search\" ",
+      {
+        "type": "bold",
+        "text": "mode where the"
+      },
+      " map takes center stage, and listings are displayed based on the map view.\n\n\n\nInteractive Map Features:\n\nProperty Markers: Use cle",
+      {
+        "type": "bold",
+        "text": "ar and informative markers to repres"
+      },
+      "ent properties on the map. Markers can be clustered at higher zoom levels and expa",
+      {
+        "type": "bold",
+        "text": "nd to show i"
+      },
+      "n",
+      {
+        "type": "bold",
+        "text": "dividual properties as "
+      },
+      "users zoom in. Consider using different marker styles or colors to differentiate property types o",
+      {
+        "type": "bold",
+        "text": "r statuses.\nMap-Based Filtering"
+      },
+      ":\nDraw Boundaries: Allow users to draw custom shapes (circles, rectangles, polygons) on th",
+      {
+        "type": "bold",
+        "text": "e map to defin"
+      },
+      "e",
+      {
+        "type": "bold",
+        "text": " their search are"
+      },
+      "a.\n\"Search this Area\" Button: After panning and zooming the map, provide a button to \"Search this Area\" t",
+      {
+        "type": "bold",
+        "text": "o update listings bas"
+      },
+      "ed on the current map viewport.\n\n\nProperty Information on Map Markers:  On marker click/hover, display ",
+      {
+        "type": "bold",
+        "text": "a concise sum"
+      },
+      "m",
+      {
+        "type": "bold",
+        "text": "ary of the property ("
+      },
+      "image, price, address, key features). Link directly t",
+      {
+        "type": "bold",
+        "text": "o the property d"
+      },
+      "etails page.\nStreet View Integration:  Allow users to easily access Street View directly f",
+      {
+        "type": "bold",
+        "text": "rom property markers or lis"
+      },
+      "tings to get a ground-level perspective of the neighborhood.\n",
+      {
+        "type": "bold",
+        "text": "Points of Interest (POI) L"
+      },
+      "a",
+      {
+        "type": "bold",
+        "text": "yer:  Optionall"
+      },
+      "y, overlay points of interest like schools, parks, hospitals, public transport stops, and shopping centers ",
+      {
+        "type": "bold",
+        "text": "on the map to provide"
+      },
+      " ",
+      {
+        "type": "bold",
+        "text": "neighborhood context. A"
+      },
+      "llow users to toggle POI layers on/off.\nTraffic & Transit Layers (Optional):  For relevant markets, consider offering traffic and public transit layers on the map.\n\n\nMap UI/UX Considerations:\n\nMap Con",
+      {
+        "type": "bold",
+        "text": "trols: Ensure stan"
+      },
+      "dard map controls are present and easily accessible (zoom in/out, pan, full-screen mode).\nMap Loading Perfor",
+      {
+        "type": "bold",
+        "text": "mance: Optimize "
+      },
+      "m",
+      {
+        "type": "bold",
+        "text": "ap loading speed, especially on mobile. Use m"
+      },
+      "ap tiling and lazy loading techniques.\nClear Visual Hierarchy: Ensure map markers and UI elements are visua",
+      {
+        "type": "bold",
+        "text": "lly distinct from the base map"
+      },
+      " a",
+      {
+        "type": "bold",
+        "text": "nd property imagery.\nMobile Map"
+      },
+      " Usability:  Maps can be challenging on smaller screens. Ensure touch-friendly map controls, clear marker interactions, and consider responsive map layouts that adapt to mobile viewports.\n\n\n\nBy implementing the",
+      {
+        "type": "bold",
+        "text": "se tips, you can cre"
+      },
+      "ate a real estate website search experience that is both powerful and user-friendly, addressing the common shortc",
+      {
+        "type": "bold",
+        "text": "omings of compet"
+      },
+      "itor sites and providing a significant advantage for your users. Remember to test and iterate based on user feedback to continuously improve your search functionality."
+    ],
+    "text_entities": [
+      {
+        "type": "bold",
+        "text": "Display the map alongside the"
+      },
+      {
+        "type": "plain",
+        "text": " property listings.  Users can see properties on the map and in a list simultaneously. Consider allowing users to switch be"
+      },
+      {
+        "type": "bold",
+        "text": "tween a map-dominant view and a "
+      },
+      {
+        "type": "plain",
+        "text": "li"
+      },
+      {
+        "type": "bold",
+        "text": "sting-dom"
+      },
+      {
+        "type": "plain",
+        "text": "i"
+      },
+      {
+        "type": "bold",
+        "text": "nant view.\nMap as Primary"
+      },
+      {
+        "type": "plain",
+        "text": " Search Interface (Optional):  Some users prefer to browse directly on a map. Offer a \"Map Search\" "
+      },
+      {
+        "type": "bold",
+        "text": "mode where the"
+      },
+      {
+        "type": "plain",
+        "text": " map takes center stage, and listings are displayed based on the map view.\n\n\n\nInteractive Map Features:\n\nProperty Markers: Use cle"
+      },
+      {
+        "type": "bold",
+        "text": "ar and informative markers to repres"
+      },
+      {
+        "type": "plain",
+        "text": "ent properties on the map. Markers can be clustered at higher zoom levels and expa"
+      },
+      {
+        "type": "bold",
+        "text": "nd to show i"
+      },
+      {
+        "type": "plain",
+        "text": "n"
+      },
+      {
+        "type": "bold",
+        "text": "dividual properties as "
+      },
+      {
+        "type": "plain",
+        "text": "users zoom in. Consider using different marker styles or colors to differentiate property types o"
+      },
+      {
+        "type": "bold",
+        "text": "r statuses.\nMap-Based Filtering"
+      },
+      {
+        "type": "plain",
+        "text": ":\nDraw Boundaries: Allow users to draw custom shapes (circles, rectangles, polygons) on th"
+      },
+      {
+        "type": "bold",
+        "text": "e map to defin"
+      },
+      {
+        "type": "plain",
+        "text": "e"
+      },
+      {
+        "type": "bold",
+        "text": " their search are"
+      },
+      {
+        "type": "plain",
+        "text": "a.\n\"Search this Area\" Button: After panning and zooming the map, provide a button to \"Search this Area\" t"
+      },
+      {
+        "type": "bold",
+        "text": "o update listings bas"
+      },
+      {
+        "type": "plain",
+        "text": "ed on the current map viewport.\n\n\nProperty Information on Map Markers:  On marker click/hover, display "
+      },
+      {
+        "type": "bold",
+        "text": "a concise sum"
+      },
+      {
+        "type": "plain",
+        "text": "m"
+      },
+      {
+        "type": "bold",
+        "text": "ary of the property ("
+      },
+      {
+        "type": "plain",
+        "text": "image, price, address, key features). Link directly t"
+      },
+      {
+        "type": "bold",
+        "text": "o the property d"
+      },
+      {
+        "type": "plain",
+        "text": "etails page.\nStreet View Integration:  Allow users to easily access Street View directly f"
+      },
+      {
+        "type": "bold",
+        "text": "rom property markers or lis"
+      },
+      {
+        "type": "plain",
+        "text": "tings to get a ground-level perspective of the neighborhood.\n"
+      },
+      {
+        "type": "bold",
+        "text": "Points of Interest (POI) L"
+      },
+      {
+        "type": "plain",
+        "text": "a"
+      },
+      {
+        "type": "bold",
+        "text": "yer:  Optionall"
+      },
+      {
+        "type": "plain",
+        "text": "y, overlay points of interest like schools, parks, hospitals, public transport stops, and shopping centers "
+      },
+      {
+        "type": "bold",
+        "text": "on the map to provide"
+      },
+      {
+        "type": "plain",
+        "text": " "
+      },
+      {
+        "type": "bold",
+        "text": "neighborhood context. A"
+      },
+      {
+        "type": "plain",
+        "text": "llow users to toggle POI layers on/off.\nTraffic & Transit Layers (Optional):  For relevant markets, consider offering traffic and public transit layers on the map.\n\n\nMap UI/UX Considerations:\n\nMap Con"
+      },
+      {
+        "type": "bold",
+        "text": "trols: Ensure stan"
+      },
+      {
+        "type": "plain",
+        "text": "dard map controls are present and easily accessible (zoom in/out, pan, full-screen mode).\nMap Loading Perfor"
+      },
+      {
+        "type": "bold",
+        "text": "mance: Optimize "
+      },
+      {
+        "type": "plain",
+        "text": "m"
+      },
+      {
+        "type": "bold",
+        "text": "ap loading speed, especially on mobile. Use m"
+      },
+      {
+        "type": "plain",
+        "text": "ap tiling and lazy loading techniques.\nClear Visual Hierarchy: Ensure map markers and UI elements are visua"
+      },
+      {
+        "type": "bold",
+        "text": "lly distinct from the base map"
+      },
+      {
+        "type": "plain",
+        "text": " a"
+      },
+      {
+        "type": "bold",
+        "text": "nd property imagery.\nMobile Map"
+      },
+      {
+        "type": "plain",
+        "text": " Usability:  Maps can be challenging on smaller screens. Ensure touch-friendly map controls, clear marker interactions, and consider responsive map layouts that adapt to mobile viewports.\n\n\n\nBy implementing the"
+      },
+      {
+        "type": "bold",
+        "text": "se tips, you can cre"
+      },
+      {
+        "type": "plain",
+        "text": "ate a real estate website search experience that is both powerful and user-friendly, addressing the common shortc"
+      },
+      {
+        "type": "bold",
+        "text": "omings of compet"
+      },
+      {
+        "type": "plain",
+        "text": "itor sites and providing a significant advantage for your users. Remember to test and iterate based on user feedback to continuously improve your search functionality."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      {
+        "type": "link",
+        "text": "https://chatgpt.com/share/67b38703-29a8-800d-8988-f0d889c93c4f"
+      }
+    ],
+    "text_entities": [
+      {
+        "type": "link",
+        "text": "https://chatgpt.com/share/67b38703-29a8-800d-8988-f0d889c93c4f"
+      }
+    ]
+  },
+  {
+    "type": "service",
+    "actor": "Tazi",
+    "actor_id": "user8141948028",
+    "action": "phone_call",
+    "duration_seconds": 1395,
+    "discard_reason": "hangup",
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": [
+      {
+        "type": "link",
+        "text": "https://chatgpt.com/share/67b389e8-541c-8002-a742-b9fc7deb2567"
+      }
+    ],
+    "text_entities": [
+      {
+        "type": "link",
+        "text": "https://chatgpt.com/share/67b389e8-541c-8002-a742-b9fc7deb2567"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_size": 311420,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 11976,
+    "media_type": "video_message",
+    "mime_type": "video/mp4",
+    "duration_seconds": 2,
+    "width": 300,
+    "height": 300,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "hahahhahha",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hahahhahha"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "gpt respect",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "gpt respect"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "wise AI",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "wise AI"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "(((((",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "((((("
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63797,
+    "text": "love when u smiilee",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "love when u smiilee"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "fyi",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "fyi"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "yee nothing makes me smile more than my jokess....",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "yee nothing makes me smile more than my jokess...."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "n maybe when u say smth nice to me",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "n maybe when u say smth nice to me"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "not ur rude jokes 🙄🙄🙄🙄",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "not ur rude jokes 🙄🙄🙄🙄"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 62172,
+    "text": "a n flowers as well",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "a n flowers as well"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 63806,
+    "text": "dont react like zisss..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "dont react like zisss.."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "kak mne react",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "kak mne react"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "u dont like my jokes",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "u dont like my jokes"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "im sad",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "im sad"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "no i like it in general",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "no i like it in general"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "but sometimes a bit ruude",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "but sometimes a bit ruude"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "but im not mad",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "but im not mad"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 10614,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 6778,
+    "media_type": "sticker",
+    "sticker_emoji": "🥹",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "reply_to_message_id": 63812,
+    "text": "nu ladno at least u like it sometimes",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu ladno at least u like it sometimes"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": [
+      {
+        "type": "custom_emoji",
+        "text": "😕",
+        "document_id": "stickers/AnimatedSticker (55).tgs"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "custom_emoji",
+        "text": "😕",
+        "document_id": "stickers/AnimatedSticker (55).tgs"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "why saaaa",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "why saaaa"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "d",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "d"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "che nelzya dramatizirovat",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "che nelzya dramatizirovat"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "hospadi",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hospadi"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 27098,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 12078,
+    "media_type": "sticker",
+    "sticker_emoji": "🤨",
+    "mime_type": "image/webp",
+    "width": 335,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "reply_to_message_id": 63822,
+    "text": "i like this dog",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "i like this dog"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 23364,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 10740,
+    "media_type": "sticker",
+    "sticker_emoji": "👑",
+    "mime_type": "image/webp",
+    "width": 389,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "hahah da",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "hahah da"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "me too",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "me too"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 15452,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 7484,
+    "media_type": "sticker",
+    "sticker_emoji": "👱‍♀",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 489,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "and zis is uuu",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "and zis is uuu"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "just need red nails and macbook and coffee",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "just need red nails and macbook and coffee"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "да но без такого",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "да но без такого"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "кхе кхе ошейника",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "кхе кхе ошейника"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": [
+      {
+        "type": "custom_emoji",
+        "text": "🤟",
+        "document_id": "stickers/sticker (116).webp"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🤟",
+        "document_id": "stickers/sticker (116).webp"
+      },
+      ""
+    ],
+    "text_entities": [
+      {
+        "type": "custom_emoji",
+        "text": "🤟",
+        "document_id": "stickers/sticker (116).webp"
+      },
+      {
+        "type": "custom_emoji",
+        "text": "🤟",
+        "document_id": "stickers/sticker (116).webp"
+      },
+      {
+        "type": "plain",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nuu hz i think u secretly want it during sex hehe",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nuu hz i think u secretly want it during sex hehe"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 14718,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 8702,
+    "media_type": "sticker",
+    "sticker_emoji": "😅",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "не смотри на меня такими глазами..",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "не смотри на меня такими глазами.."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "таким взглядом...",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "таким взглядом..."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "ответа не будет",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "ответа не будет"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": ".",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "nu ya znaiu uzhe otveta",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "nu ya znaiu uzhe otveta"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "tak shtoo",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "tak shtoo"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "kupliu koe shto esho vmeste s zatichkoi dlya zhe",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "kupliu koe shto esho vmeste s zatichkoi dlya zhe"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 27098,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 12078,
+    "media_type": "sticker",
+    "sticker_emoji": "🤨",
+    "mime_type": "image/webp",
+    "width": 335,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "милый подарок???",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "милый подарок???"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 24040,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 10522,
+    "media_type": "sticker",
+    "sticker_emoji": "👑",
+    "mime_type": "image/webp",
+    "width": 288,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "mozhna tak skazat",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "mozhna tak skazat"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "yes",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "yes"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 14718,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 8702,
+    "media_type": "sticker",
+    "sticker_emoji": "😅",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webp",
+    "file_size": 6196,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 3238,
+    "media_type": "sticker",
+    "sticker_emoji": "❤️",
+    "mime_type": "image/webp",
+    "width": 512,
+    "height": 255,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Polinochka ❤️‍🔥🐈",
+    "from_id": "user448614268",
+    "text": "......",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "......"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "file": "(File not included. Change data exporting settings to download.)",
+    "file_name": "sticker.webm",
+    "file_size": 140796,
+    "thumbnail": "(File not included. Change data exporting settings to download.)",
+    "thumbnail_file_size": 5878,
+    "media_type": "sticker",
+    "sticker_emoji": "🤬",
+    "mime_type": "video/webm",
+    "duration_seconds": 3,
+    "width": 512,
+    "height": 512,
+    "text": "",
+    "text_entities": []
+  },
+  {
+    "type": "message",
+    "from": "Tazi",
+    "from_id": "user8141948028",
+    "text": "zis is u",
+    "text_entities": [
+      {
+        "type": "plain",
+        "text": "zis is u"
+      }
+    ]
+  }
+]
